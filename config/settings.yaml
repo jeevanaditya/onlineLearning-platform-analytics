@@ -1,0 +1,21 @@
+# Online Learning Platform Analytics - Configuration
+# Copy to .env or set env vars for secrets (SNOWFLAKE_ACCOUNT, USER, PASSWORD, etc.)
+
+snowflake:
+  account: "${SNOWFLAKE_ACCOUNT}"
+  user: "${SNOWFLAKE_USER}"
+  password: "${SNOWFLAKE_PASSWORD}"
+  role: "ANALYTICS_ROLE"
+  warehouse: "ANALYTICS_WH"
+  database: "LEARNING_PLATFORM_DW"
+  schema: "ANALYTICS"
+
+spark:
+  app_name: "LearningPlatformAnalytics"
+  master: "local[*]"
+  log_level: "WARN"
+
+dashboard:
+  host: "0.0.0.0"
+  port: 8501
+  title: "Online Learning Platform Analytics"

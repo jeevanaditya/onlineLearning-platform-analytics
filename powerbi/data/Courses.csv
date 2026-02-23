@@ -1,0 +1,5 @@
+course_id,course_name,category_name,level_code,duration_minutes
+C101,Data Engineering Fundamentals,Data Science,Beginner,480
+C102,Machine Learning Basics,Data Science,Intermediate,600
+C103,SQL for Analytics,Data Science,Beginner,360
+C104,Streaming with Spark,Data Engineering,Advanced,540
