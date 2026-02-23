@@ -5,3 +5,13 @@ E003,L002,C101,I001,2024-02-10,100,500,True,Data Engineering Fundamentals,Data S
 E004,L003,C103,I001,2024-03-01,25,90,False,SQL for Analytics,Data Science,Beginner,360
 E005,L004,C101,I001,2024-03-10,50,200,False,Data Engineering Fundamentals,Data Science,Beginner,480
 E006,L005,C102,I002,2024-03-12,0,0,False,Machine Learning Basics,Data Science,Intermediate,600
+E007,L006,C101,I001,2024-03-18,20,60,False,Data Engineering Fundamentals,Data Science,Beginner,480
+E008,L006,C105,I003,2024-03-22,40,120,False,Data Visualization with Power BI,Data Science,Intermediate,420
+E009,L007,C102,I002,2024-03-23,60,180,False,Machine Learning Basics,Data Science,Intermediate,600
+E010,L007,C105,I003,2024-03-25,10,45,False,Data Visualization with Power BI,Data Science,Intermediate,420
+E011,L008,C103,I001,2024-03-26,80,300,True,SQL for Analytics,Data Science,Beginner,360
+E012,L009,C106,I004,2024-03-29,30,90,False,Advanced SQL Optimization,Data Science,Advanced,480
+E013,L009,C107,I004,2024-03-30,0,0,False,Cloud Data Warehousing with Snowflake,Data Engineering,Intermediate,540
+E014,L010,C108,I004,2024-04-02,15,75,False,Real-time Analytics with Kafka & Spark,Data Engineering,Advanced,600
+E015,L010,C101,I001,2024-04-05,50,200,False,Data Engineering Fundamentals,Data Science,Beginner,480
+E016,L005,C105,I003,2024-03-18,30,100,False,Data Visualization with Power BI,Data Science,Intermediate,420

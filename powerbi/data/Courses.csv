@@ -3,3 +3,7 @@ C101,Data Engineering Fundamentals,Data Science,Beginner,480
 C102,Machine Learning Basics,Data Science,Intermediate,600
 C103,SQL for Analytics,Data Science,Beginner,360
 C104,Streaming with Spark,Data Engineering,Advanced,540
+C105,Data Visualization with Power BI,Data Science,Intermediate,420
+C106,Advanced SQL Optimization,Data Science,Advanced,480
+C107,Cloud Data Warehousing with Snowflake,Data Engineering,Intermediate,540
+C108,Real-time Analytics with Kafka & Spark,Data Engineering,Advanced,600

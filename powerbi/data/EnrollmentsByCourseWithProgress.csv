@@ -1,4 +1,8 @@
 course_name,enrollments,avg_progress
-Data Engineering Fundamentals,3,83.33333333333333
-Machine Learning Basics,2,37.5
-SQL for Analytics,1,25.0
+Advanced SQL Optimization,1,30.0
+Cloud Data Warehousing with Snowflake,1,0.0
+Data Engineering Fundamentals,5,64.0
+Data Visualization with Power BI,3,26.666666666666668
+Machine Learning Basics,3,45.0
+Real-time Analytics with Kafka & Spark,1,15.0
+SQL for Analytics,2,52.5
